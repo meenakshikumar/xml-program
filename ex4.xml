@@ -1,0 +1,46 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "ex4.xsl"?>
+<class>
+<Book>
+<Book_ID>CS78156</Book_ID>
+<Title>Computer Networks</Title>
+<Author>I.A.Dhotre</Author>
+<Publication>Technical</Publication>
+<Price>850</Price>
+</Book>
+
+<Book>
+<Book_ID>CY33597</Book_ID>
+<Title>Material Science</Title>
+<Author>S.S.Dhara</Author>
+<Publication>S.Chand</Publication>
+<Price>300</Price>
+</Book>
+
+
+<Book >
+<Book_ID>MA11759</Book_ID>
+<Title>Transforms and Partial Differential Equations</Title>
+<Author>G.Balaji</Author>
+<Publication>Balaji</Publication>
+<Price>800</Price>
+</Book>
+
+
+<Book >
+<Book_ID >CS71453</Book_ID>
+<Title>Data Warehousing and Data Mining</Title>
+<Author>Varsha Bhosle</Author>
+<Publication>Magnum</Publication>
+<Price>350</Price>
+</Book>
+
+
+<Book>
+<Book_ID>CE82135</Book_ID>
+<Title>Foundation Engineering</Title>
+<Author>Arun Kumar Jain</Author>
+<Publication>S.Chand</Publication>
+<Price>700</Price>
+</Book>
+</class>
