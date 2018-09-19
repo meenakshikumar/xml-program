@@ -1,0 +1,23 @@
+books 
+{
+font-size:80%;
+ margin:0.5em;
+ font-family: cursive;
+ display:block
+}
+book 
+{
+ display:block;
+ border: 1px solid silver;
+ margin:0.5em;
+ padding:0.5em;
+ background-color:pink;
+}
+name, price, stock, author{display:block;}
+name
+ {
+color:red;
+ text-decoration: underline;}
+price{color:red;}
+stock {color:green;}
+author {color:blue;}
