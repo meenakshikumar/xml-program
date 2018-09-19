@@ -1,0 +1,31 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "ex5.xsl"?>
+<report>
+<student RegNo = "211716205001">
+<Name>robert</Name>
+<Year>III</Year>
+<Dept>IT</Dept>
+<CGPA>7.5</CGPA>
+</student>
+
+<student RegNo = "211716207028">
+<Name>andrea</Name>
+<Year>III</Year>
+<Dept>CSE</Dept>
+<CGPA>7.8</CGPA>
+</student>
+
+<student RegNo = "211716203045">
+<Name>vijay</Name>
+<Year>III</Year>
+<Dept>ECE</Dept>
+<CGPA>8.0</CGPA>
+</student>
+
+<student RegNo = "211716202036">
+<Name>Suriya</Name>
+<Year>III</Year>
+<Dept>MECH</Dept>
+<CGPA>7.9</CGPA>
+</student>
+</report>
