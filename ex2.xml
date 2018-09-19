@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ex2.css"?>
+<books>
+ <book id="p1" class="special">
+  <name>NAME :harry potter</name>
+  <price> PRICE :200</price>
+  <stock> STOCK :405</stock>
+  <authorname>AUTHOR NAME :j.k.rowling</authorname>
+ </book>
